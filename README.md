@@ -114,7 +114,7 @@ developer = {
 
 ## 📈 Contribution Graph
 
-[![Amirdaselvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirdaselvi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/amirdaselvi)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirdaselvi&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/amirdaselvi)
 
 ---
 
