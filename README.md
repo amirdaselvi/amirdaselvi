@@ -5,14 +5,44 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final year student at SRM IST Ramapuram
-- 🤖 Interested in AI, ML, NLP and Data Analytics
-- 💡 Worked on Machine Learning & Web Development projects
-- 🏆 Smart India Hackathon Participant
-- 📊 Love building data-driven solutions
-- 🌱 Currently learning FastAPI, LangChain & Docker
+> AI/ML Enthusiast | Big Data Analytics Student | Hackathon Participant | Backend Developer
 
----
+Passionate Computer Science Engineering student specializing in Big Data Analytics with hands-on experience across Machine Learning, Web Development, and Backend Engineering. Completed 3 internships in AI/ML, Web Development, and Backend Development, gaining practical exposure to scalable systems, API development, data-driven applications, and intelligent solutions.
+
+Experienced in building AI-powered projects using Python, FastAPI, LangChain, Machine Learning, NLP, and modern web technologies. Actively participated in hackathons including Smart India Hackathon and worked on innovative projects involving demand forecasting, crop disease prediction, and intelligent analytics systems.
+
+Strong interest in Artificial Intelligence, Generative AI, RAG systems, and scalable backend architectures, with continuous learning in advanced AI systems and multi-agent technologies.
+
+```python
+developer = {
+    "name": "AMIRDASELVI C S",
+    "location": "Chennai, India",
+    "education": "B.Tech CSE (Big Data Analytics) - SRM IST",
+    "experience": "3 Internships",
+    "roles": [
+        "AI/ML Intern",
+        "Web Development Intern",
+        "Backend Development Intern"
+    ],
+    "focus": [
+        "AI / ML",
+        "NLP",
+        "LangChain",
+        "RAG",
+        "Backend Development"
+    ],
+    "currently_learning": [
+        "Advanced AI Systems",
+        "Multi-Agent Architectures"
+    ],
+    "interests": [
+        "Hackathons",
+        "Data Analytics",
+        "Generative AI"
+    ],
+    "currently_building": "AI-powered intelligent systems 🚀"
+}
+```
 ## 🚀 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -56,16 +86,16 @@
 ---
 ## 📌 Projects
 
-### 🛒 Retail Growth Intelligence System
+###  Retail Growth Intelligence System
 - AI demand forecasting system using Random Forest
 - Achieved 97% prediction accuracy
 - Power BI dashboard integration
 
-### 🎵 Music Genre Classification
+###  Music Genre Classification
 - CNN-based audio classification system
 - Built using TensorFlow & Librosa
 
-### 🌱 Crop Disease Prediction System
+###  Crop Disease Prediction System
 - AI-powered crop disease detection using image classification
 - Developed for Smart India Hackathon participation
 - Used Machine Learning and image preprocessing techniques
@@ -90,12 +120,6 @@
 ## 📊 Contribution Graph
 
 [![Amirdaselvi github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirdaselvi&theme=tokyo-night)](https://github.com/amirdaselvi)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amirdaselvi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
