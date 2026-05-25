@@ -98,18 +98,18 @@ developer = {
 - Used Machine Learning and image preprocessing techniques
 - Assisted in disease identification and agricultural decision-making
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirdaselvi&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amirdaselvi&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdaselvi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirdaselvi&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdaselvi&layout=compact&theme=tokyonight" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirdaselvi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
