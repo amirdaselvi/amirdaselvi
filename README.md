@@ -45,43 +45,44 @@ developer = {
 ```
 ## 🚀 Tech Stack
 
-### 👨‍💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=mysql)
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+  ![SQL](https://img.shields.io/badge/SQL-orange?style=flat-square&logo=mysql)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript)
 
----
+- **Frameworks:**  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=flat-square&logo=fastapi)
+  ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+  ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
 
-### 🤖 AI / Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+- **AI / ML:**  
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=flat-square)
+  ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=flat-square)
+  ![NLP](https://img.shields.io/badge/NLP-purple?style=flat-square)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=flat-square&logo=scikitlearn)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow)
 
----
+- **Generative AI & LLMs:**  
+  ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
+  ![RAG](https://img.shields.io/badge/RAG%20Systems-blueviolet?style=flat-square)
+  ![LLM Applications](https://img.shields.io/badge/LLM%20Applications-darkblue?style=flat-square)
 
-### 🔗 Generative AI & LLM Tools
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Systems-blueviolet?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM%20Applications-darkblue?style=for-the-badge)
+- **Databases:**  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)
 
----
+- **Tools & Platforms:**  
+  ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker)
+  ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-orange?style=flat-square&logo=googlecolab)
+  ![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=flat-square&logo=powerbi)
 
-### 🌐 Frameworks & Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
----
-
-### 🛠️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-orange?style=for-the-badge&logo=googlecolab)
+- **Concepts:**  
+  ![AI/ML](https://img.shields.io/badge/AI%2FML-blueviolet?style=flat-square)
+  ![RAG](https://img.shields.io/badge/RAG-darkblue?style=flat-square)
+  ![Backend Systems](https://img.shields.io/badge/Backend%20Systems-success?style=flat-square)
+  ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-orange?style=flat-square)
 
 ---
 ## 📌 Projects
