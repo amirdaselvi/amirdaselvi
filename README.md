@@ -102,11 +102,15 @@ developer = {
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=amirdaselvi&theme=tokyonight&show_icons=true)
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirdaselvi&theme=tokyonight" />
+  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirdaselvi&theme=tokyonight" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=amirdaselvi&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirdaselvi&layout=compact&theme=tokyonight)
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=amirdaselvi&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
