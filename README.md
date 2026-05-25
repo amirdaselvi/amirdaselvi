@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Amirdaselvi</h1>
 <h3 align="center">B.Tech CSE - Big Data Analytics | AI & ML Enthusiast</h3>
 ---
@@ -63,11 +63,6 @@ developer = {
   ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=flat-square&logo=scikitlearn)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=tensorflow)
 
-- **Generative AI & LLMs:**  
-  ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
-  ![RAG](https://img.shields.io/badge/RAG%20Systems-blueviolet?style=flat-square)
-  ![LLM Applications](https://img.shields.io/badge/LLM%20Applications-darkblue?style=flat-square)
-
 - **Databases:**  
   ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql)
@@ -80,6 +75,7 @@ developer = {
 
 - **Concepts:**  
   ![AI/ML](https://img.shields.io/badge/AI%2FML-blueviolet?style=flat-square)
+  ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square)
   ![RAG](https://img.shields.io/badge/RAG-darkblue?style=flat-square)
   ![Backend Systems](https://img.shields.io/badge/Backend%20Systems-success?style=flat-square)
   ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-orange?style=flat-square)
