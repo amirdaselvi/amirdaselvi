@@ -104,8 +104,6 @@ developer = {
 
 <p align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirdaselvi&theme=tokyonight" />
-  
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirdaselvi&theme=tokyonight" />
 </p>
 
 <p align="center">
