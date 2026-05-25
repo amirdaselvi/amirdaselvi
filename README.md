@@ -102,21 +102,11 @@ developer = {
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=amirdaselvi&show_icons=true&theme=tokyonight&hide_border=true"/>
-</td>
+![](https://github-readme-stats.vercel.app/api?username=amirdaselvi&theme=tokyonight&show_icons=true)
 
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirdaselvi&layout=compact&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-</table>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amirdaselvi&theme=tokyonight)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=amirdaselvi&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amirdaselvi&layout=compact&theme=tokyonight)
 
 ---
 
