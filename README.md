@@ -112,9 +112,9 @@ developer = {
 
 ---
 
-## 📊 Contribution Graph
+## 📈 Contribution Graph
 
-[![Amirdaselvi github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirdaselvi&theme=tokyo-night)](https://github.com/amirdaselvi)
+[![Amirdaselvi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirdaselvi&theme=tokyo-night&hide_border=true&area=true)](https://github.com/amirdaselvi)
 
 ---
 
